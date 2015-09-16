@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:55:04.343709
+# -*- mode: mandoku-view -*-
 #+TITLE: 秘藏通玄變化六陰洞微遁甲真經
-#+PROPERTY: DZID  DZ0857
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，18—585 三卷 洞神部方法類
+#+DATE: 2015-08-29 00:55:05
+#+PROPERTY:  LASTPB <PB KR5c0254_SJB_003-180594a>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶
+
