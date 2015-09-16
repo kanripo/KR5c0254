@@ -1,11 +1,3 @@
-#+TITLE: 祕藏通玄變化六陰洞微遁甲真經 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 00:55:04.443045
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5c0254_000.txt][祕藏通玄變化六陰洞微遁甲真經 0]]
- - [[file:KR5c0254_001.txt][祕藏通玄變化六陰洞微遁甲真經 1]]
- - [[file:KR5c0254_002.txt][祕藏通玄變化六陰洞微遁甲真經 2]]
- - [[file:KR5c0254_003.txt][祕藏通玄變化六陰洞微遁甲真經 3]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
